@@ -1,21 +1,12 @@
-### Hi there 👋
+# Hi there, I'm Runkecheng! 👋
 
-<!--
-**runkecheng/runkecheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=runkecheng&color=brightgreen)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Currently working on: Cloud-native gateway and release systems
+- 🌱 Currently learning: Envoy, Serverless
 
-I`m rkcheng
+## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=runkecheng&show_icons=true)
-
+![Runkecheng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=runkecheng&show_icons=true&theme=radical)
