@@ -1,4 +1,8 @@
-# Hi there, I'm Runkecheng! 👋
+# Hi there 👋
+
+Agent memory & RAG infrastructure. Agent lifecycle governance. Human-in-the-loop system design.
+
+Go / Kubernetes.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=runkecheng&color=brightgreen)
 
